@@ -1,5 +1,0 @@
-product_type,container_number,start_time,end_time,num_points,temp_warn_hours,temp_crit_hours,hum_warn_hours,hum_crit_hours,warn_hours,crit_hours,longest_warn_run,longest_crit_run,risk_probability,risk_level,mean_temp_pred,mean_humidity_pred
-electronics,(T01)GHMU**1429,2024-12-27 21:22:45,2024-12-30 20:26:44,72,67,52,72,72,72,72,72,72,1.0,Critical,8.806,17.999
-electronics,(T01)GHMU**1429-1,2024-12-27 21:22:45,2024-12-30 20:26:44,72,67,52,72,72,72,72,72,72,1.0,Critical,8.806,17.999
-electronics,(T02)GHMU**1428,2024-12-27 11:06:27,2024-12-30 11:06:44,72,70,47,72,72,72,72,72,72,1.0,Critical,9.055,15.426
-electronics,(T04)GHMU**14280,2024-12-23 11:05:42,2024-12-27 01:29:13,72,24,7,72,72,72,72,72,72,1.0,Critical,16.39,79.721
