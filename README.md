@@ -1,4 +1,11 @@
-# Container Environment Monitoring and Early Warning System
+# Container Environment Monitoring 
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-LSTM-orange)
+![Time Series](https://img.shields.io/badge/Time%20Series-Forecasting-yellow)
+![IoT](https://img.shields.io/badge/IoT-Sensor%20Data-green)
+![Early Warning](https://img.shields.io/badge/System-Early%20Warning-red)
+![Supply Chain](https://img.shields.io/badge/Application-Cold%20Chain-purple)
 
 ## Project Overview
 
